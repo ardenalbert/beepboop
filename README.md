@@ -12,3 +12,4 @@ Mechanical To Do:
 2. Cable mgmt
 3. Stable base
 4. Glasses?
+5. Guitar amp battery case
