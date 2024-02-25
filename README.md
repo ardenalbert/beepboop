@@ -9,5 +9,5 @@ Software To Do:
 
 Mechanical To Do:
 1. Cable mgmt
-2. Stable base
+2. Secure to base; secure hair
 3. Glasses?
